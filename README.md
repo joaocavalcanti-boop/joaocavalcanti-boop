@@ -27,9 +27,6 @@
   <a href="mailto:ojoaocavalcantti@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-cavalcanti-47ab6b316/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
 </div>
 
 ![snake](https://raw.githubusercontent.com/joaocavalcanti-boop/joaocavalcanti-boop/output/snake-purple.svg)
